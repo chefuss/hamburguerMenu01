@@ -1,2 +1,6 @@
-# hamburguerMenu01
-CSS Hamburguer Menu
+# CSS Hambutguer Menu
+
+### Code from the yutube channel:
+## OnlineTutorials
+
+Pure CSS hamurguer menu with effect
